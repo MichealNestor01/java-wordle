@@ -11,3 +11,5 @@ It is a version of the game wordle that can be played in the command line.
 - The user can view their last game
 
 - The user can see their historical game statistics
+
+- The user can see a histogram of guess number distribution
